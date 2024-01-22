@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    /* background-image: url(https://file.oyephoto.com/uploads/preview/sidhu-moose-wala-pictures-full-hd-download-img-116541423733toflvusr9.jpg); */
+    background-image: url(./wallpaperflare.com_wallpaper\ \(12\).jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.time{
+    color: rgb(255, 255, 255);
+    /* background-color: #4e5d7e; */
+    width: 189px;
+    height: 58px;
+    border-radius: 50px;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    margin-top: 124px;
+    align-items: center;
+    font-size: -webkit-xxx-large;
+}
+.style{
+    color: white;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
